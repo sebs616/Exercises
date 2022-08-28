@@ -1,5 +1,5 @@
 import random
-
+#  https://www.educative.io/blog/crack-amazon-coding-interview-questions
 #Find the missing number in the array
 # A function that takes an unordered list of consecutive numbers with a missing value and returns the missing value.
 # The missing number can be found by calculating   (the sum of values from 1 to n) - (the sum of vales in the list), where n= the biggest value in the list 
